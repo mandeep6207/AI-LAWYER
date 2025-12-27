@@ -1,0 +1,101 @@
+case_type,ipc_section,case_facts_summary,evidence_strength,past_criminal_record,severity,victim_impact,outcome,base_probability
+Property,IPC 406,Medical records exist but lack corroborative digital evidence.,Moderate,None,Low,Low,Mediation,61
+Property,IPC 420,Bank records and official documents strongly establish the offense.,Strong,Minor,High,Severe,Conviction,81
+Family,IPC 125,"No documentary proof, allegations based primarily on verbal claims.",Weak,None,High,Moderate,Acquittal,19
+Property,IPC 420,Bank records and official documents strongly establish the offense.,Strong,Minor,Low,Moderate,Conviction,85
+Property,IPC 406,Medical records exist but lack corroborative digital evidence.,Moderate,None,Medium,Moderate,Settlement,57
+Family,IPC 125,"No documentary proof, allegations based primarily on verbal claims.",Weak,Serious,Medium,Severe,Acquittal,17
+Civil,CPC 9,"Case supported by documentary proof, eyewitness testimony, and forensic evidence.",Strong,Serious,High,Moderate,Conviction,76
+Family,IPC 125,Bank records and official documents strongly establish the offense.,Strong,Serious,High,Severe,Conviction,80
+Property,IPC 406,"CCTV footage, medical records, and witness statements clearly support allegations.",Strong,Serious,Medium,Severe,Conviction,86
+Property,IPC 406,"Case supported by documentary proof, eyewitness testimony, and forensic evidence.",Strong,Minor,High,Severe,Conviction,86
+Criminal,IPC 302,Witness statements are contradictory and lack supporting evidence.,Weak,Serious,Medium,Low,Acquittal,22
+Civil,CPC 9,"No documentary proof, allegations based primarily on verbal claims.",Weak,Minor,Low,Severe,Acquittal,17
+Civil,CPC 34,Partial documentation available along with verbal witness statements.,Moderate,None,Medium,Severe,Settlement,48
+Property,IPC 420,Medical records exist but lack corroborative digital evidence.,Moderate,None,High,Severe,Settlement,58
+Criminal,IPC 379,Case depends mainly on assumptions without physical proof.,Weak,Minor,Low,Low,Acquittal,22
+Family,IPC 125,Partial documentation available along with verbal witness statements.,Moderate,Minor,Low,Severe,Conviction,53
+Civil,CPC 34,Circumstantial evidence supported by limited witnesses.,Moderate,Minor,Medium,Moderate,Settlement,58
+Civil,CPC 9,Circumstantial evidence supported by limited witnesses.,Moderate,None,Low,Moderate,Mediation,58
+Criminal,IPC 302,Bank records and official documents strongly establish the offense.,Strong,None,Low,Severe,Conviction,87
+Civil,CPC 34,"No documentary proof, allegations based primarily on verbal claims.",Weak,Serious,High,Moderate,Acquittal,15
+Family,IPC 498A,Partial documentation available along with verbal witness statements.,Moderate,None,High,Severe,Mediation,64
+Criminal,IPC 376,"CCTV footage, medical records, and witness statements clearly support allegations.",Strong,None,High,Moderate,Conviction,76
+Property,IPC 447,"CCTV footage, medical records, and witness statements clearly support allegations.",Strong,Minor,High,Severe,Conviction,88
+Family,IPC 125,Case depends mainly on assumptions without physical proof.,Weak,Minor,Medium,Severe,Acquittal,29
+Property,IPC 447,Witness statements are contradictory and lack supporting evidence.,Weak,Serious,Medium,Moderate,Acquittal,30
+Property,IPC 447,"CCTV footage, medical records, and witness statements clearly support allegations.",Strong,Minor,Low,Low,Conviction,83
+Property,IPC 406,Circumstantial evidence supported by limited witnesses.,Moderate,Minor,High,Severe,Mediation,46
+Family,IPC 498A,"No documentary proof, allegations based primarily on verbal claims.",Weak,Serious,Medium,Low,Acquittal,28
+Civil,CPC 34,Case depends mainly on assumptions without physical proof.,Weak,None,High,Low,Acquittal,31
+Civil,CPC 9,Medical records exist but lack corroborative digital evidence.,Moderate,Minor,High,Severe,Mediation,65
+Property,IPC 420,"CCTV footage, medical records, and witness statements clearly support allegations.",Strong,Serious,Low,Moderate,Conviction,85
+Property,IPC 406,"No documentary proof, allegations based primarily on verbal claims.",Weak,Minor,Medium,Moderate,Acquittal,16
+Property,IPC 406,"Case supported by documentary proof, eyewitness testimony, and forensic evidence.",Strong,Minor,Low,Moderate,Conviction,81
+Property,IPC 406,Witness statements are contradictory and lack supporting evidence.,Weak,None,Low,Severe,Acquittal,15
+Civil,CPC 34,Circumstantial evidence supported by limited witnesses.,Moderate,Serious,Medium,Moderate,Settlement,53
+Criminal,IPC 302,"No documentary proof, allegations based primarily on verbal claims.",Weak,Serious,Low,Moderate,Acquittal,29
+Property,IPC 406,"No documentary proof, allegations based primarily on verbal claims.",Weak,Serious,Low,Low,Acquittal,26
+Civil,CPC 34,Circumstantial evidence supported by limited witnesses.,Moderate,None,Low,Low,Settlement,56
+Civil,CPC 9,"No documentary proof, allegations based primarily on verbal claims.",Weak,None,Low,Moderate,Acquittal,20
+Civil,CPC 34,Case depends mainly on assumptions without physical proof.,Weak,Minor,Low,Moderate,Acquittal,23
+Civil,CPC 34,"No documentary proof, allegations based primarily on verbal claims.",Weak,Serious,High,Severe,Acquittal,20
+Property,IPC 447,Witness statements are contradictory and lack supporting evidence.,Weak,Serious,Low,Moderate,Acquittal,24
+Criminal,IPC 354,Case depends mainly on assumptions without physical proof.,Weak,Minor,Medium,Severe,Acquittal,21
+Civil,CPC 9,Circumstantial evidence supported by limited witnesses.,Moderate,Serious,Medium,Low,Settlement,64
+Civil,CPC 9,Witness statements are contradictory and lack supporting evidence.,Weak,Serious,Medium,Moderate,Acquittal,26
+Property,IPC 447,Partial documentation available along with verbal witness statements.,Moderate,None,Medium,Low,Conviction,58
+Criminal,IPC 498A,"CCTV footage, medical records, and witness statements clearly support allegations.",Strong,Serious,High,Moderate,Conviction,87
+Property,IPC 420,Circumstantial evidence supported by limited witnesses.,Moderate,None,Low,Moderate,Settlement,48
+Property,IPC 406,Bank records and official documents strongly establish the offense.,Strong,Serious,Low,Severe,Conviction,81
+Family,IPC 498A,Bank records and official documents strongly establish the offense.,Strong,Minor,Low,Severe,Conviction,79
+Family,IPC 498A,Witness statements are contradictory and lack supporting evidence.,Weak,None,Medium,Severe,Acquittal,22
+Family,IPC 498A,Medical records exist but lack corroborative digital evidence.,Moderate,None,Low,Severe,Conviction,55
+Property,IPC 420,"Case supported by documentary proof, eyewitness testimony, and forensic evidence.",Strong,Serious,High,Low,Conviction,76
+Family,IPC 498A,Circumstantial evidence supported by limited witnesses.,Moderate,None,Medium,Moderate,Conviction,57
+Family,IPC 498A,"Case supported by documentary proof, eyewitness testimony, and forensic evidence.",Strong,Serious,Medium,Low,Conviction,89
+Family,IPC 125,"CCTV footage, medical records, and witness statements clearly support allegations.",Strong,Serious,Medium,Moderate,Conviction,83
+Criminal,IPC 420,Medical records exist but lack corroborative digital evidence.,Moderate,Minor,Medium,Low,Conviction,64
+Criminal,IPC 354,Case depends mainly on assumptions without physical proof.,Weak,Serious,Low,Severe,Acquittal,15
+Criminal,IPC 498A,"No documentary proof, allegations based primarily on verbal claims.",Weak,Serious,High,Low,Acquittal,30
+Family,IPC 498A,Bank records and official documents strongly establish the offense.,Strong,Serious,High,Moderate,Conviction,83
+Property,IPC 447,Medical records exist but lack corroborative digital evidence.,Moderate,None,Low,Moderate,Conviction,49
+Property,IPC 406,"CCTV footage, medical records, and witness statements clearly support allegations.",Strong,Minor,Low,Severe,Conviction,72
+Civil,CPC 9,Medical records exist but lack corroborative digital evidence.,Moderate,Serious,Medium,Severe,Mediation,51
+Family,IPC 125,"CCTV footage, medical records, and witness statements clearly support allegations.",Strong,Minor,Medium,Moderate,Conviction,87
+Criminal,IPC 420,Bank records and official documents strongly establish the offense.,Strong,Serious,Low,Low,Conviction,73
+Property,IPC 420,Partial documentation available along with verbal witness statements.,Moderate,Serious,Low,Moderate,Settlement,51
+Civil,CPC 34,Circumstantial evidence supported by limited witnesses.,Moderate,None,Medium,Moderate,Mediation,48
+Civil,CPC 34,Witness statements are contradictory and lack supporting evidence.,Weak,Serious,Medium,Low,Acquittal,19
+Civil,CPC 34,Case depends mainly on assumptions without physical proof.,Weak,Minor,High,Low,Acquittal,24
+Civil,CPC 9,"No documentary proof, allegations based primarily on verbal claims.",Weak,Minor,Low,Moderate,Acquittal,15
+Property,IPC 420,Circumstantial evidence supported by limited witnesses.,Moderate,None,High,Severe,Conviction,60
+Criminal,IPC 354,"No documentary proof, allegations based primarily on verbal claims.",Weak,Serious,Medium,Moderate,Acquittal,17
+Property,IPC 420,"No documentary proof, allegations based primarily on verbal claims.",Weak,Minor,Medium,Low,Acquittal,29
+Property,IPC 420,"CCTV footage, medical records, and witness statements clearly support allegations.",Strong,None,Medium,Low,Conviction,84
+Criminal,IPC 376,"Case supported by documentary proof, eyewitness testimony, and forensic evidence.",Strong,None,Low,Low,Conviction,87
+Family,IPC 125,"CCTV footage, medical records, and witness statements clearly support allegations.",Strong,None,Low,Moderate,Conviction,74
+Criminal,IPC 420,"Case supported by documentary proof, eyewitness testimony, and forensic evidence.",Strong,Minor,Low,Severe,Conviction,79
+Family,IPC 125,"Case supported by documentary proof, eyewitness testimony, and forensic evidence.",Strong,Serious,High,Low,Conviction,76
+Civil,CPC 34,Circumstantial evidence supported by limited witnesses.,Moderate,Minor,High,Severe,Mediation,63
+Criminal,IPC 379,Medical records exist but lack corroborative digital evidence.,Moderate,Minor,Medium,Low,Conviction,46
+Family,IPC 125,"Case supported by documentary proof, eyewitness testimony, and forensic evidence.",Strong,Minor,High,Low,Conviction,90
+Civil,CPC 34,Bank records and official documents strongly establish the offense.,Strong,Serious,High,Severe,Conviction,79
+Family,IPC 125,Medical records exist but lack corroborative digital evidence.,Moderate,None,Low,Low,Settlement,59
+Criminal,IPC 498A,Medical records exist but lack corroborative digital evidence.,Moderate,None,High,Severe,Mediation,51
+Criminal,IPC 498A,Circumstantial evidence supported by limited witnesses.,Moderate,Minor,High,Low,Conviction,59
+Criminal,IPC 302,Circumstantial evidence supported by limited witnesses.,Moderate,Minor,High,Moderate,Conviction,49
+Civil,CPC 34,Bank records and official documents strongly establish the offense.,Strong,Serious,High,Low,Conviction,72
+Criminal,IPC 498A,"CCTV footage, medical records, and witness statements clearly support allegations.",Strong,None,Medium,Moderate,Conviction,71
+Civil,CPC 9,Witness statements are contradictory and lack supporting evidence.,Weak,Serious,Medium,Severe,Acquittal,15
+Civil,CPC 34,Witness statements are contradictory and lack supporting evidence.,Weak,Serious,High,Low,Acquittal,24
+Civil,CPC 34,"No documentary proof, allegations based primarily on verbal claims.",Weak,Minor,High,Moderate,Acquittal,35
+Civil,CPC 34,Witness statements are contradictory and lack supporting evidence.,Weak,Minor,Medium,Severe,Acquittal,35
+Property,IPC 420,Case depends mainly on assumptions without physical proof.,Weak,Serious,Medium,Severe,Acquittal,32
+Civil,CPC 34,"Case supported by documentary proof, eyewitness testimony, and forensic evidence.",Strong,Serious,High,Moderate,Conviction,83
+Family,IPC 498A,Bank records and official documents strongly establish the offense.,Strong,None,High,Low,Conviction,76
+Criminal,IPC 498A,Witness statements are contradictory and lack supporting evidence.,Weak,Serious,High,Moderate,Acquittal,19
+Civil,CPC 34,"CCTV footage, medical records, and witness statements clearly support allegations.",Strong,None,Low,Low,Conviction,82
+Property,IPC 447,Partial documentation available along with verbal witness statements.,Moderate,Minor,Low,Moderate,Settlement,54
+Property,IPC 420,Witness statements are contradictory and lack supporting evidence.,Weak,Minor,Medium,Low,Acquittal,32
+Criminal,IPC 379,Bank records and official documents strongly establish the offense.,Strong,Minor,Medium,Moderate,Conviction,82

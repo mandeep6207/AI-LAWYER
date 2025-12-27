@@ -1,0 +1,144 @@
+{
+  "Women Rights": [
+    {
+      "title": "Right against Domestic Violence",
+      "description": "A woman has the right to protection against physical, emotional, sexual, and economic abuse at home.",
+      "law": "Protection of Women from Domestic Violence Act, 2005"
+    },
+    {
+      "title": "Right to file FIR",
+      "description": "Police must register FIR in cognizable offences related to women without delay.",
+      "law": "CrPC Section 154"
+    },
+    {
+      "title": "Right against Sexual Harassment",
+      "description": "Women have the right to a safe workplace free from sexual harassment.",
+      "law": "POSH Act, 2013"
+    },
+    {
+      "title": "Right to Free Legal Aid",
+      "description": "Women are entitled to free legal services if they cannot afford a lawyer.",
+      "law": "Legal Services Authorities Act, 1987"
+    },
+    {
+      "title": "Right against Dowry",
+      "description": "Demanding or giving dowry is illegal and punishable.",
+      "law": "Dowry Prohibition Act, 1961"
+    }
+  ],
+
+  "Family & Marriage Rights": [
+    {
+      "title": "Right to Maintenance",
+      "description": "A wife has the right to maintenance from her husband if she cannot maintain herself.",
+      "law": "CrPC Section 125"
+    },
+    {
+      "title": "Right to Divorce",
+      "description": "Both husband and wife have the right to seek divorce under valid grounds.",
+      "law": "Hindu Marriage Act, 1955"
+    },
+    {
+      "title": "Right to Child Custody",
+      "description": "Courts decide child custody based on the best interest of the child.",
+      "law": "Guardians and Wards Act, 1890"
+    },
+    {
+      "title": "Right against Bigamy",
+      "description": "A person cannot marry again while the first marriage is still valid.",
+      "law": "IPC Section 494"
+    }
+  ],
+
+  "Child Rights": [
+    {
+      "title": "Right to Free Education",
+      "description": "Children aged 6 to 14 years have the right to free and compulsory education.",
+      "law": "Right to Education Act, 2009"
+    },
+    {
+      "title": "Right against Child Labour",
+      "description": "Children cannot be employed in hazardous work.",
+      "law": "Child Labour (Prohibition & Regulation) Act, 1986"
+    },
+    {
+      "title": "Protection from Sexual Abuse",
+      "description": "Children are protected from sexual offences under special law.",
+      "law": "POCSO Act, 2012"
+    },
+    {
+      "title": "Right to Care and Protection",
+      "description": "Children in need have the right to shelter, care, and rehabilitation.",
+      "law": "Juvenile Justice Act, 2015"
+    }
+  ],
+
+  "Police & Arrest Rights": [
+    {
+      "title": "Right to Know Grounds of Arrest",
+      "description": "A person must be informed of the reason for arrest.",
+      "law": "CrPC Section 50"
+    },
+    {
+      "title": "Right to Legal Counsel",
+      "description": "An arrested person has the right to consult a lawyer.",
+      "law": "Article 22(1), Constitution of India"
+    },
+    {
+      "title": "No Arrest at Night for Women",
+      "description": "Women cannot be arrested at night except in exceptional cases.",
+      "law": "CrPC Section 46"
+    },
+    {
+      "title": "Right to Medical Examination",
+      "description": "An arrested person has the right to medical examination.",
+      "law": "CrPC Section 54"
+    }
+  ],
+
+  "Workplace Rights": [
+    {
+      "title": "Right to Minimum Wages",
+      "description": "Employees must be paid minimum wages fixed by the government.",
+      "law": "Minimum Wages Act, 1948"
+    },
+    {
+      "title": "Right to Equal Pay",
+      "description": "Men and women must receive equal pay for equal work.",
+      "law": "Equal Remuneration Act, 1976"
+    },
+    {
+      "title": "Right against Workplace Harassment",
+      "description": "Employees have the right to a harassment-free workplace.",
+      "law": "POSH Act, 2013"
+    },
+    {
+      "title": "Right to Safe Working Conditions",
+      "description": "Employers must provide safe and healthy working conditions.",
+      "law": "Factories Act, 1948"
+    }
+  ],
+
+  "Property & Tenant Rights": [
+    {
+      "title": "Right to Property",
+      "description": "Every citizen has the right to acquire and own property.",
+      "law": "Article 300A, Constitution of India"
+    },
+    {
+      "title": "Tenant Protection",
+      "description": "Landlords cannot evict tenants without valid legal grounds.",
+      "law": "Rent Control Acts"
+    },
+    {
+      "title": "Right to Inheritance",
+      "description": "Sons and daughters have equal rights in ancestral property.",
+      "law": "Hindu Succession Act, 1956"
+    },
+    {
+      "title": "Right against Illegal Eviction",
+      "description": "Tenants cannot be forcibly evicted without court orders.",
+      "law": "State Rent Laws"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Can police arrest without warrant?",
+    "answer": "Yes, police can arrest without warrant in cognizable offences.",
+    "law": "CrPC Section 41"
+  },
+  {
+    "question": "Is FIR mandatory for cognizable offences?",
+    "answer": "Yes, FIR must be registered by police.",
+    "law": "CrPC Section 154"
+  },
+  {
+    "question": "Can a woman be arrested at night?",
+    "answer": "No, except in exceptional circumstances.",
+    "law": "CrPC Section 46"
+  },
+  {
+    "question": "Is dowry a crime?",
+    "answer": "Yes, giving or taking dowry is illegal.",
+    "law": "Dowry Prohibition Act, 1961"
+  },
+  {
+    "question": "What is the punishment for domestic violence?",
+    "answer": "Protection orders, fines, and imprisonment may apply.",
+    "law": "PWDV Act, 2005"
+  },
+  {
+    "question": "Can a tenant be evicted without notice?",
+    "answer": "No, eviction requires legal notice and due process.",
+    "law": "Rent Control Laws"
+  },
+  {
+    "question": "Is child labour illegal?",
+    "answer": "Yes, employing children in hazardous work is illegal.",
+    "law": "Child Labour Act, 1986"
+  },
+  {
+    "question": "Can I get free legal aid?",
+    "answer": "Yes, if you cannot afford a lawyer.",
+    "law": "Legal Services Authorities Act, 1987"
+  }
+]

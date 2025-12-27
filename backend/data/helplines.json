@@ -1,0 +1,156 @@
+[
+  {
+    "state": "All India",
+    "services": [
+      { "type": "Emergency", "number": "112" },
+      { "type": "Police", "number": "100" },
+      { "type": "Women Helpline", "number": "181" },
+      { "type": "Child Helpline", "number": "1098" },
+      { "type": "Legal Aid (NALSA)", "number": "1516" }
+    ]
+  },
+
+  {
+    "state": "Andhra Pradesh",
+    "services": [
+      { "type": "Women Helpline", "number": "181" },
+      { "type": "Police", "number": "100" },
+      { "type": "Child Helpline", "number": "1098" }
+    ]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "services": [
+      { "type": "Women Helpline", "number": "181" },
+      { "type": "Police", "number": "100" }
+    ]
+  },
+  {
+    "state": "Assam",
+    "services": [
+      { "type": "Women Helpline", "number": "181" },
+      { "type": "Police", "number": "100" },
+      { "type": "Child Helpline", "number": "1098" }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "services": [
+      { "type": "Women Helpline", "number": "181" },
+      { "type": "Police", "number": "100" },
+      { "type": "Legal Aid", "number": "1516" }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "services": [
+      { "type": "Women Helpline", "number": "181" },
+      { "type": "Police", "number": "100" }
+    ]
+  },
+  {
+    "state": "Delhi",
+    "services": [
+      { "type": "Women Helpline", "number": "181" },
+      { "type": "Police", "number": "100" },
+      { "type": "Senior Citizen", "number": "1291" }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "services": [
+      { "type": "Women Helpline", "number": "181" },
+      { "type": "Police", "number": "100" }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "services": [
+      { "type": "Women Helpline", "number": "181" },
+      { "type": "Police", "number": "100" }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "services": [
+      { "type": "Women Helpline", "number": "181" }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "services": [
+      { "type": "Women Helpline", "number": "181" },
+      { "type": "Child Helpline", "number": "1098" }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "services": [
+      { "type": "Women Helpline", "number": "181" },
+      { "type": "Police", "number": "100" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "services": [
+      { "type": "Women Helpline", "number": "181" },
+      { "type": "Police", "number": "100" }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "services": [
+      { "type": "Women Helpline", "number": "181" }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "services": [
+      { "type": "Women Helpline", "number": "181" },
+      { "type": "Police", "number": "100" }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "services": [
+      { "type": "Women Helpline", "number": "181" }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "services": [
+      { "type": "Women Helpline", "number": "181" }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "services": [
+      { "type": "Women Helpline", "number": "181" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "services": [
+      { "type": "Women Helpline", "number": "181" }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "services": [
+      { "type": "Women Helpline", "number": "181" }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "services": [
+      { "type": "Women Helpline", "number": "181" },
+      { "type": "Police", "number": "100" }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "services": [
+      { "type": "Women Helpline", "number": "181" }
+    ]
+  }
+]
